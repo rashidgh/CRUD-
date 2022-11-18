@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "emp_name": "Ranjan",
+      "emp_salary": "454544545",
+      "emp_designation": "node_dev",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "emp_name": "Aliston",
+      "emp_salary": "500000",
+      "emp_designation": "api_dev",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "emp_name": "Ranjan",
+      "emp_salary": "500000",
+      "emp_designation": "",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "emp_name": "Md Rashid",
+      "emp_salary": "500000",
+      "emp_designation": "",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
